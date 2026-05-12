@@ -5,7 +5,7 @@ from itertools import count
 
 import networkx as nx
 
-from utils.energy_altitude import DroneEdgeCost
+from utils.energy_altitude_uncertainty import DroneEdgeCost
 
 
 def _default_source(G):
