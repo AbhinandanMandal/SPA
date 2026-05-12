@@ -6,7 +6,7 @@ import networkx as nx
 import numpy as np
 
 from Greedy_SOSP import Greedy_SOSP
-from utils.energy_altitude import DroneEdgeCost, ExpectedEnergy, UncertaintyPenalty
+from utils.energy_altitude_uncertainty import DroneEdgeCost, ExpectedEnergy, UncertaintyPenalty
 
 
 def _default_source_target(G, source, target):
