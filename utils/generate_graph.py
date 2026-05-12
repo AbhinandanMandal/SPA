@@ -1,14 +1,15 @@
 
-# graph generator for greedy_sosp_update and robust_mosp_update
-# we'll be using erdos-renyi-graph which works for random graph
-# An erods-renyi graph on the vertex V is a random graph which connects each
-# pair of nodes {i,j} with probablity p, independent.
+
+"""
+Utilizing "Erdos-Renyi" graph for random graph generator.
+An Erdos-Renyi graph on the vertex v is a random graph which connects
+each pair of nodes (i,j) with a probability p independent.
+
+"""
 
 import networkx as nx
 
 from utils.energy_altitude import AltitudeGain, ExpectedEnergy, UncertaintyPenalty
-
-# graph generator
 
 
 # node sizes, edge probablity input parameters
