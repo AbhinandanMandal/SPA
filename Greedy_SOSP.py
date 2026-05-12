@@ -1,9 +1,4 @@
-"""Energy-feasible greedy SOSP update.
-
-This module keeps the spirit of the paper's incremental SOSP_Update while
-replacing the scalar edge weight W(u, v) with a stable drone cost model:
-expected energy + altitude-climb penalty + uncertainty/wind penalty.
-"""
+"""Energy-feasible greedy SOSP update """
 
 from heapq import heappop, heappush
 from itertools import count
