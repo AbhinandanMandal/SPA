@@ -1,4 +1,4 @@
-"""Robust energy-feasible MOSP update for drone path routing."""
+"""Robust energy-feasible MOSP update for drone path routing """
 
 from random import Random
 
