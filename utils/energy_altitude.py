@@ -1,11 +1,11 @@
 
-"""Stable edge metric helpers for drone path-routing experiments.
+"""
+Stable edge metrics for effective drone routing.
+Three fundamental criterion has been choosen for determining edge values
+1. Expected Energy
+2. Altitude Gain
+3. Uncertainty Penalty
 
-The previous implementation sampled a new random value every time the same
-edge was evaluated. Shortest-path relaxation requires one stable cost for an
-edge during a run, so these helpers first read graph edge attributes when a
-graph is supplied and otherwise fall back to deterministic pseudo-random
-values derived from the edge id.
 """
 
 from hashlib import blake2b
