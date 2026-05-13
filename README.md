@@ -47,5 +47,6 @@ Dataset for the experiment can be downloaded from https://drive.google.com/file/
 ## End Note
 This research has been done during summer 2026 ES522 Artifical Intelligence batch session. Many thanks to **Dr. Yashwant Singh Patel** (Assistant Professor, DoES, IIITM Gwalior) for his constant support and guidance. 
 
-**Crafted with ❤️ by Abhinandan**
+**Crafted with ❤️ by Abhinandan Mandal**
+
 
