@@ -45,7 +45,7 @@ Runtime performance of `Robust_MOSP`
 Dataset for the experiment can be downloaded from https://drive.google.com/file/d/1itJV5GkDe1sMRJD1GYerv27e1z3A_hso/view?usp=sharing
 
 ## End Note
-This research has been done during summer 2026 ES522 Artifical Intelligence batch session. Many thanks to **Dr. Yashwant Singh Patel** (Assistant Professor, DoES, IIITM Gwalior) for his constant support and guidance. 
+Many thanks to **Dr. Yashwant Singh Patel** (Assistant Professor, DoES, IIITM Gwalior) for his constant support and guidance. 
 
 **Crafted with ❤️ by Abhinandan Mandal**
 
