@@ -1,6 +1,6 @@
 # Base code for accepted paper in International Conference on Industrial and Information Systems (ICIIS) 2026
 
-## Basecode Structure
+## Project Structure
 ```
 SPA/
 ├── utils/
